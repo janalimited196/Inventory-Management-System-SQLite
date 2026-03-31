@@ -1,7 +1,5 @@
 # 📦 Inventory-Management-System-SQLite
 
-### Inventory Management System with Relational Database Design
-
 **Inventory-Management-System-SQLite** is a **Python-based application** that demonstrates structured database design using SQLite for managing inventory data.
 
 It is designed for **students and developers** to understand how real-world inventory systems handle data organization, relationships, and operations using a relational database.
@@ -110,18 +108,18 @@ inventory-management-system-sqlite/
 
 ## 🚀 Getting Started
 
-####1️⃣ Clone Repository
+#### 1️⃣ Clone Repository
 ```bash
 git clone https://github.com/ShakalBhau0001/inventory-management-system-sqlite.git  
 cd inventory-management-system-sqlite
 ```
 
-####2️⃣ Install Dependencies
+#### 2️⃣ Install Dependencies
 ```bash
 pip install -r requirements.txt
 ```
 
-####3️⃣ Run Application
+#### 3️⃣ Run Application
 ```bash 
 python main.py
 ``` 
