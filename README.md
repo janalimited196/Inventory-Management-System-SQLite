@@ -66,7 +66,41 @@ The system is built around three core tables:
 
 ```bash
 inventory-management-system-sqlite/
-├── main.py                # Main application entry point
+│
+├── core/
+│   ├── __init__.py
+│   ├── database/
+│   │   ├── __init__.py
+│   │   └── manager.py
+│   ├── services/
+│   │   ├── __init__.py
+│   │   ├── auth_service.py
+│   │   ├── category_service.py
+│   │   ├── item_service.py
+│   │   └── report_service.py
+│   └── exporters/
+│       ├── __init__.py
+│       ├── excel_exporter.py
+│       └── pdf_exporter.py
+├── gui/
+│   ├── __init__.py
+│   ├── app.py
+│   ├── theme.py
+│   ├── components/
+│   │   ├── __init__.py
+│   │   ├── chart_widget.py
+│   │   ├── stat_card.py
+│   │   └── table_widget.py
+│   └── panels/
+│       ├── __init__.py
+│       ├── dashboard_panel.py
+│       ├── items_panel.py
+│       ├── categories_panel.py
+│       └── reports_panel.py
+├── LICENSE
+├── main.py
+├── requirements.txt
+└── README.md
 
 ```
 
@@ -94,7 +128,7 @@ python main.py
 
 ---
 
-## 🗄️ Database Schema (Concept)
+## 🗄️ Database Schema
 - Users(id, username, password, role)
 - Categories(id, name, description)
 - Items(id, name, category_id, quantity, price, min_stock, supplier, date_added)
