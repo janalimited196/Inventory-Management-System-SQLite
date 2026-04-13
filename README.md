@@ -63,7 +63,7 @@ The system is built around three core tables:
 ## 📁 Project Structure
 
 ```bash
-inventory-management-system-sqlite/
+Inventory-Management-System-SQLite/
 │
 ├── core/
 │   ├── __init__.py
@@ -162,10 +162,10 @@ It is **not production-ready** and lacks advanced security and scalability featu
 
 ---
 
-## 🪪 Author
+## 👨‍💻 Contributors
 
-> Developer: **Shakal Bhau**
- 
-> GitHub: **[ShakalBhau0001](https://github.com/ShakalBhau0001)**
+> Developer: **Shakal Bhau** & **Rajlaxmi Patil**
+
+> GitHub: **[ShakalBhau0001](https://github.com/ShakalBhau0001) & [Rajlaxmi-1307](https://github.com/Rajlaxmi-1307)**
 
 ---
